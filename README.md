@@ -1,2 +1,2 @@
-# Berkah-Publisher
+# Berkah Publisher
 Berkah Publisher Website
